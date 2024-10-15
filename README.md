@@ -35,3 +35,7 @@ CREATE TABLE IF EXISTS USUARIO(
 
 # Fecha de entrega: 15 de octubre 2024 a las 18:30
 
+## Instrucciones de entrega:
+
+Hacer fork a este proyecto, modificarlo y subir su codigo netbeans a su repositorio y luego solicitar pull request a este proyecto nuevamente.
+
